@@ -8,7 +8,7 @@ from Crypto.Util.Padding import unpad
 from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
 from PIL import Image
-from tqdm import tqdm
+
 
 
 yudu_book_url = input("[1] Enter the book's url: ")
