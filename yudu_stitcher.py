@@ -1,6 +1,5 @@
 import requests
 import json
-import os
 import base64
 import binascii
 from Crypto.Cipher import AES
